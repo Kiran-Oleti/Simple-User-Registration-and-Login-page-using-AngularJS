@@ -1,0 +1,12 @@
+/* dahsboard.component.css */
+.dashboard-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Adjust as needed */
+  }
+  
+  .dashboard-content {
+    text-align: center;
+  }
+  

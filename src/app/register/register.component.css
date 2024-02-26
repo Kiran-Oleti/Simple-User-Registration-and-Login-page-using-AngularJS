@@ -1,0 +1,35 @@
+div {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: blue;
+  }
+  
+  mat-card {
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  mat-card-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  mat-form-field {
+    width: 100%;
+    min-width: 300px;
+    margin-bottom: 15px;
+  }
+  
+  mat-error {
+    color: red;
+  }
+  
+  .button {
+    margin-top: 20px;
+    text-align: right;
+  }
+  

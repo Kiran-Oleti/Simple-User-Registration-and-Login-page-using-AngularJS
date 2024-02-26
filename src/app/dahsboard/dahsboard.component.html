@@ -1,0 +1,8 @@
+<!-- dashboard.component.html -->
+<div class="dashboard-container">
+  <div class="dashboard-content">
+    <h1>Welcome, {{ user?.username }}!</h1>
+    <p>Email: {{ user?.email }}</p>
+    <button mat-raised-button color="warn" (click)="logout()">Logout</button>
+  </div>
+</div>
